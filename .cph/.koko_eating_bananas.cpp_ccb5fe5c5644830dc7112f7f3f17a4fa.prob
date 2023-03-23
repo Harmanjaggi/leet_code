@@ -1,0 +1,1 @@
+{"name":"Local: koko_eating_bananas","url":"c:\\interest\\C++\\leetcode\\koko_eating_bananas.cpp","tests":[{"id":1678290480059,"input":"4\n3 6 7 11\n8","output":"4"},{"id":1678290520734,"input":"5\n30 11 23 4 20\n5","output":"30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\interest\\C++\\leetcode\\koko_eating_bananas.cpp","group":"local","local":true}

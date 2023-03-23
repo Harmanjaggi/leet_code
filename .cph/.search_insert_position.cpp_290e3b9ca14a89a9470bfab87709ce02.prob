@@ -1,0 +1,1 @@
+{"name":"Local: search_insert_position","url":"c:\\interest\\C++\\leetcode\\search_insert_position.cpp","tests":[{"id":1677519715243,"input":"4\n1 3 5 6\n5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\interest\\C++\\leetcode\\search_insert_position.cpp","group":"local","local":true}

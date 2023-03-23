@@ -1,0 +1,1 @@
+{"name":"Local: length_of_last_word","url":"c:\\interest\\C++\\leetcode\\length_of_last_word.cpp","tests":[{"id":1677523446524,"input":"fly me   to   the moon","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\interest\\C++\\leetcode\\length_of_last_word.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: add_two_numbers","url":"c:\\interest\\C++\\leetcode\\add_two_numbers.cpp","tests":[{"id":1677872028619,"input":"1 2\n1 2","output":""},{"id":1677872456897,"input":"9 9 9 9 9 9 9\n9 9 9 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\interest\\C++\\leetcode\\add_two_numbers.cpp","group":"local","local":true}

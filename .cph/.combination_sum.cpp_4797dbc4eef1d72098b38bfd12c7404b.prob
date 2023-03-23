@@ -1,0 +1,1 @@
+{"name":"Local: combination_sum","url":"c:\\interest\\C++\\leetcode\\combination_sum.cpp","tests":[{"id":1679332731377,"input":"4\n2 3 6 7\n7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\interest\\C++\\leetcode\\combination_sum.cpp","group":"local","local":true}

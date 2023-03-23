@@ -26,6 +26,7 @@ string longestCommonPrefix(vector<string> &strs)
 
 int main()
 {
+    cout << "weedfef";
     int n;
     cin >> n;
     vector<string> str(n);

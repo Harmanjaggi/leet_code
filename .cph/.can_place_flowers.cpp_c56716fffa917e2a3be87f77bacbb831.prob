@@ -1,0 +1,1 @@
+{"name":"Local: can_place_flowers","url":"c:\\interest\\C++\\leetcode\\can_place_flowers.cpp","tests":[{"id":1679326870245,"input":"7\n1 0 0 0 1 0 1\n1","output":"true"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\interest\\C++\\leetcode\\can_place_flowers.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: jump_game_ii","url":"c:\\interest\\C++\\leetcode\\jump_game_ii.cpp","tests":[{"id":1679329321716,"input":"5\n2 3 1 1 4","output":"2"},{"id":1679329372885,"input":"5\n2 3 0 1 4","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\interest\\C++\\leetcode\\jump_game_ii.cpp","group":"local","local":true}
